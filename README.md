@@ -1,1 +1,2 @@
 # iith-print
+This project is made to limit the no of pages to be printed per montth by a person. so basically first a person creathis account through the signup menu, then after verification he login to his account and can send print through the site. the site counts the no of pages and limit has been set to 15 per month, the allowed formats are jpeg,jpg,png and pdf.we are using email print service of epson.
